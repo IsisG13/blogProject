@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.header span {
+  color: blueviolet;
+}
+
+.header h1 {
+  margin-left: 8%;
+  margin-bottom: 6%;
+}
+
+.imagem {
+  border-radius: 18px;
+  margin-left: 5%;
+  float: left;
+  margin-top: 5%;
+}
+
+.imagemCabecalho {
+  border-radius: 18px;
+  margin-left: 5%;
+  float: left;
+}
+
+.conteudo p {
+  padding-left: 10%;
+  width: 81%;
+  margin-bottom: 2%;
+}
+
+.conteudo h3 {
+  padding-left: 10%;
+  margin-bottom: -4%;
+  margin-top: -3%;
+}
+
+.conteudo h2 {
+  padding-left: 10%;
+  color: blueviolet;
+  font-size: 225%;
+  margin-bottom: -3%;
+}
+
+.conteudo {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 11%;
+  display: grid;
+  grid-template-columns: 66% 66%;
+  justify-items: center;
+  width: 75%;
+}
+
+.cabecalho p {
+  padding-left: 51%;
+}
+
+.cabecalho h3 {
+  padding-left: 51%;
+}
+
+.cabecalho h2 {
+  padding-left: 51%;
+  color: blueviolet;
+  font-size: 176%;
+}
+
+@media (max-width: 960px) {
+  .header span {
+    color: blueviolet;
+  }
+  
+  .header h1 {
+    margin-left: 8%;
+    margin-bottom: 6%;
+  }
+  
+  .imagem {
+    border-radius: 18px;
+    margin-left: 5%;
+    float: left;
+    margin-top: 5%;
+  }
+  
+  .imagemCabecalho {
+    border-radius: 18px;
+    margin-left: 5%;
+    float: left;
+  }
+  
+  .conteudo p {
+    padding-left: 10%;
+    width: 81%;
+    margin-bottom: 2%;
+  }
+  
+  .conteudo h3 {
+    padding-left: 10%;
+    margin-bottom: -4%;
+    margin-top: -3%;
+  }
+  
+  .conteudo h2 {
+    padding-left: 10%;
+    color: blueviolet;
+    font-size: 225%;
+    margin-bottom: -3%;
+  }
+  
+  .conteudo {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 11%;
+    display: grid;
+    grid-template-columns: 66% 66%;
+    justify-items: center;
+    width: 75%;
+  }
+  
+  .cabecalho p {
+    padding-left: 51%;
+  }
+  
+  .cabecalho h3 {
+    padding-left: 51%;
+  }
+  
+  .cabecalho h2 {
+    padding-left: 51%;
+    color: blueviolet;
+    font-size: 176%;
+  }
+}
+
+@media (max-width: 800px) {
+  .header span {
+    color: blueviolet;
+  }
+  
+  .header h1 {
+    font-size: 140%;
+    margin-left: 8%;
+    margin-bottom: 6%;
+  }
+  
+  .imagem {
+    border-radius: 18px;
+    margin-left: 44px;
+    float: left;
+    margin-top: 30%;
+    width: 360%;
+    height: 209px;
+  }
+  
+  .imagemCabecalho {
+    border-radius: 18px;
+    margin-left: 5%;
+    float: left;
+    width: 92%;
+    height: 194px;
+  }
+  
+  .conteudo p {
+    padding-left: 55%;
+    width: 397%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+  }
+  
+  .conteudo h3 {
+    padding-left: 55%;
+    margin-bottom: -4%;
+    margin-top: -3%;
+  }
+  
+  .conteudo h2 {
+    padding-left: 55%;
+    color: blueviolet;
+    font-size: 124%;
+    margin-bottom: -3%;
+    width: 412%;
+  }
+  
+  .conteudo {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 11%;
+    display: grid;
+    grid-template-columns: 0%;
+    justify-items: center;
+    width: 75%;
+  }
+  
+  .cabecalho p {
+    padding-left: 8%;
+  }
+  
+  .cabecalho h3 {
+    padding-left: 8%;
+  }
+  
+  .cabecalho h2 {
+    padding-left: 8%;
+    color: blueviolet;
+    font-size: 170%;
+  }
+}
