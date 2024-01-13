@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
+/* 
 .header span {
   color: blueviolet;
 }
@@ -18,7 +19,7 @@
 
 .imagemCabecalho {
   border-radius: 18px;
-  margin-left: 5%;
+  margin-left: 13%;
   float: left;
 }
 
@@ -51,15 +52,88 @@
 }
 
 .cabecalho p {
-  padding-left: 51%;
+  padding-left: 36%;
+  width: 37%;
 }
 
 .cabecalho h3 {
-  padding-left: 51%;
+  padding-left: 36%;
 }
 
 .cabecalho h2 {
-  padding-left: 51%;
+  padding-left: 36%;
+  color: blueviolet;
+  font-size: 176%;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.header span {
+  color: blueviolet;
+}
+
+.header h1 {
+  margin-left: 14%;
+  margin-bottom: 6%;
+}
+
+.imagem {
+  border-radius: 18px;
+  margin-left: 5%;
+  float: left;
+  margin-top: 5%;
+}
+
+.imagemCabecalho {
+  border-radius: 18px;
+  margin-left: 13%;
+  float: left;
+  width: 27%;
+  height: 344px;
+}
+
+.conteudo p {
+  padding-left: 10%;
+  width: 81%;
+  margin-bottom: 2%;
+}
+
+.conteudo h3 {
+  padding-left: 10%;
+  margin-bottom: -4%;
+  margin-top: -3%;
+}
+
+.conteudo h2 {
+  padding-left: 10%;
+  color: blueviolet;
+  font-size: 225%;
+  margin-bottom: -3%;
+}
+
+.conteudo {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 11%;
+  margin-left: 8%;
+  display: grid;
+  grid-gap: 71px;
+  grid-template-columns: 43% 43% 43%;
+  justify-items: center;
+  width: 58%;
+  align-items: center;
+}
+
+.cabecalho p {
+  padding-left: 41%;
+  width: 37%;
+}
+
+.cabecalho h3 {
+  padding-left: 41%;
+}
+
+.cabecalho h2 {
+  padding-left: 41%;
   color: blueviolet;
   font-size: 176%;
 }
@@ -85,6 +159,8 @@
     border-radius: 18px;
     margin-left: 5%;
     float: left;
+    width: 45%;
+    height: 362px;
   }
   
   .conteudo p {
@@ -110,12 +186,15 @@
     font-family: 'Montserrat', sans-serif;
     margin-top: 11%;
     display: grid;
-    grid-template-columns: 66% 66%;
+    grid-template-columns: 54% 54%;
     justify-items: center;
     width: 75%;
+    align-items: start;
   }
   
-  .cabecalho p {
+  .cabecalho p {  
+    font-size: 84%;
+    margin-top: -2%;
     padding-left: 51%;
   }
   
@@ -143,10 +222,10 @@
   
   .imagem {
     border-radius: 18px;
-    margin-left: 44px;
+    margin-left: 23px;
     float: left;
     margin-top: 30%;
-    width: 360%;
+    width: 353%;
     height: 209px;
   }
   
@@ -159,24 +238,24 @@
   }
   
   .conteudo p {
-    padding-left: 55%;
-    width: 397%;
+    padding-left: 31%;
+    width: 320%;
     margin-bottom: 2%;
     margin-top: 3%;
   }
   
   .conteudo h3 {
-    padding-left: 55%;
+    padding-left: 31%;
     margin-bottom: -4%;
     margin-top: -3%;
   }
   
   .conteudo h2 {
-    padding-left: 55%;
+    padding-left: 31%;
     color: blueviolet;
     font-size: 124%;
     margin-bottom: -3%;
-    width: 412%;
+    width: 350%;
   }
   
   .conteudo {
@@ -190,6 +269,7 @@
   
   .cabecalho p {
     padding-left: 8%;
+    width: 86%;
   }
   
   .cabecalho h3 {

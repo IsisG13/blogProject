@@ -18,10 +18,7 @@ export default function Cabecalho() {
         />
         <h2>Bem vindo(a) ao BlogProject</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        Explore o blogProject, onde simplicidade na superfície revela projetos minuciosamente detalhados. Cada entrada é uma jornada única, mostrando a dedicação e precisão em cada detalhe. Este espaço é mais do que um compilado; é um convite para desvendar a riqueza de cada projeto, onde a simplicidade esconde uma profundidade surpreendente de realizações. Bem-vindo ao blogProject, onde cada detalhe conta uma história de paixão e criatividade.
         </p>
         <h3>Isis Souza Guimarães</h3>
         <p>12/01/2024</p>
